@@ -1,0 +1,106 @@
+2018-06-25 06:43:36,445 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2018-06-25 06:43:36,447 INFO supervisord started with pid 1
+2018-06-25 06:43:36,868 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2018-06-25 06:43:36,870 INFO supervisord started with pid 1
+2018-06-25 06:43:37,451 INFO spawned: 'php5-fpm-log' with pid 8
+2018-06-25 06:43:37,454 INFO spawned: 'nginx' with pid 9
+2018-06-25 06:43:37,455 INFO spawned: 'php5-fpm' with pid 10
+2018-06-25 06:43:37,456 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:43:37,509 INFO exited: php5-fpm (exit status 0; not expected)
+2018-06-25 06:43:37,874 INFO spawned: 'php5-fpm-log' with pid 8
+2018-06-25 06:43:37,877 INFO spawned: 'nginx' with pid 9
+2018-06-25 06:43:37,880 INFO spawned: 'php5-fpm' with pid 10
+2018-06-25 06:43:37,885 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:43:37,957 INFO exited: php5-fpm (exit status 0; not expected)
+2018-06-25 06:43:38,513 INFO spawned: 'php5-fpm-log' with pid 18
+2018-06-25 06:43:38,514 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-25 06:43:38,516 INFO spawned: 'php5-fpm' with pid 19
+2018-06-25 06:43:38,522 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:43:38,565 INFO exited: php5-fpm (exit status 70; not expected)
+2018-06-25 06:43:38,565 INFO reaped unknown pid 20
+2018-06-25 06:43:38,960 INFO spawned: 'php5-fpm-log' with pid 18
+2018-06-25 06:43:38,961 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-25 06:43:38,963 INFO spawned: 'php5-fpm' with pid 19
+2018-06-25 06:43:38,965 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:43:39,008 INFO exited: php5-fpm (exit status 70; not expected)
+2018-06-25 06:43:39,008 INFO reaped unknown pid 20
+2018-06-25 06:43:40,570 INFO spawned: 'php5-fpm-log' with pid 21
+2018-06-25 06:43:40,573 INFO spawned: 'php5-fpm' with pid 22
+2018-06-25 06:43:40,575 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:43:40,617 INFO exited: php5-fpm (exit status 70; not expected)
+2018-06-25 06:43:40,617 INFO reaped unknown pid 23
+2018-06-25 06:43:41,013 INFO spawned: 'php5-fpm-log' with pid 21
+2018-06-25 06:43:41,016 INFO spawned: 'php5-fpm' with pid 22
+2018-06-25 06:43:41,018 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:43:41,064 INFO exited: php5-fpm (exit status 70; not expected)
+2018-06-25 06:43:41,064 INFO reaped unknown pid 23
+2018-06-25 06:43:43,623 INFO spawned: 'php5-fpm-log' with pid 24
+2018-06-25 06:43:43,624 INFO spawned: 'php5-fpm' with pid 25
+2018-06-25 06:43:43,626 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:43:43,626 INFO gave up: php5-fpm-log entered FATAL state, too many start retries too quickly
+2018-06-25 06:43:43,674 INFO exited: php5-fpm (exit status 70; not expected)
+2018-06-25 06:43:43,674 INFO reaped unknown pid 26
+2018-06-25 06:43:44,071 INFO spawned: 'php5-fpm-log' with pid 24
+2018-06-25 06:43:44,074 INFO spawned: 'php5-fpm' with pid 25
+2018-06-25 06:43:44,076 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:43:44,076 INFO gave up: php5-fpm-log entered FATAL state, too many start retries too quickly
+2018-06-25 06:43:44,118 INFO exited: php5-fpm (exit status 70; not expected)
+2018-06-25 06:43:44,118 INFO reaped unknown pid 26
+2018-06-25 06:43:44,675 INFO gave up: php5-fpm entered FATAL state, too many start retries too quickly
+2018-06-25 06:43:45,120 INFO gave up: php5-fpm entered FATAL state, too many start retries too quickly
+2018-06-25 06:50:09,993 WARN received SIGTERM indicating exit request
+2018-06-25 06:50:09,993 INFO waiting for nginx to die
+2018-06-25 06:50:09,997 WARN received SIGTERM indicating exit request
+2018-06-25 06:50:09,998 INFO waiting for nginx to die
+2018-06-25 06:50:11,035 INFO stopped: nginx (exit status 0)
+2018-06-25 06:50:11,046 INFO stopped: nginx (exit status 0)
+2018-06-25 06:50:32,677 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2018-06-25 06:50:32,678 INFO supervisord started with pid 1
+2018-06-25 06:50:33,532 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2018-06-25 06:50:33,534 INFO supervisord started with pid 1
+2018-06-25 06:50:33,682 INFO spawned: 'php5-fpm-log' with pid 9
+2018-06-25 06:50:33,685 INFO spawned: 'nginx' with pid 10
+2018-06-25 06:50:33,688 INFO spawned: 'php5-fpm' with pid 11
+2018-06-25 06:50:33,694 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:50:33,774 INFO exited: php5-fpm (exit status 0; not expected)
+2018-06-25 06:50:34,538 INFO spawned: 'php5-fpm-log' with pid 9
+2018-06-25 06:50:34,540 INFO spawned: 'nginx' with pid 10
+2018-06-25 06:50:34,541 INFO spawned: 'php5-fpm' with pid 11
+2018-06-25 06:50:34,542 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:50:34,593 INFO exited: php5-fpm (exit status 0; not expected)
+2018-06-25 06:50:34,778 INFO spawned: 'php5-fpm-log' with pid 19
+2018-06-25 06:50:34,779 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-25 06:50:34,781 INFO spawned: 'php5-fpm' with pid 20
+2018-06-25 06:50:34,789 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:50:34,861 INFO exited: php5-fpm (exit status 70; not expected)
+2018-06-25 06:50:34,861 INFO reaped unknown pid 21
+2018-06-25 06:50:35,597 INFO spawned: 'php5-fpm-log' with pid 19
+2018-06-25 06:50:35,598 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-06-25 06:50:35,600 INFO spawned: 'php5-fpm' with pid 20
+2018-06-25 06:50:35,602 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:50:35,646 INFO exited: php5-fpm (exit status 70; not expected)
+2018-06-25 06:50:35,646 INFO reaped unknown pid 21
+2018-06-25 06:50:36,866 INFO spawned: 'php5-fpm-log' with pid 22
+2018-06-25 06:50:36,869 INFO spawned: 'php5-fpm' with pid 23
+2018-06-25 06:50:36,871 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:50:36,915 INFO exited: php5-fpm (exit status 70; not expected)
+2018-06-25 06:50:36,915 INFO reaped unknown pid 24
+2018-06-25 06:50:37,651 INFO spawned: 'php5-fpm-log' with pid 36
+2018-06-25 06:50:37,654 INFO spawned: 'php5-fpm' with pid 37
+2018-06-25 06:50:37,656 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:50:37,698 INFO exited: php5-fpm (exit status 70; not expected)
+2018-06-25 06:50:37,699 INFO reaped unknown pid 38
+2018-06-25 06:50:39,922 INFO spawned: 'php5-fpm-log' with pid 25
+2018-06-25 06:50:39,924 INFO spawned: 'php5-fpm' with pid 26
+2018-06-25 06:50:39,927 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:50:39,927 INFO gave up: php5-fpm-log entered FATAL state, too many start retries too quickly
+2018-06-25 06:50:39,969 INFO exited: php5-fpm (exit status 70; not expected)
+2018-06-25 06:50:39,969 INFO reaped unknown pid 27
+2018-06-25 06:50:40,705 INFO spawned: 'php5-fpm-log' with pid 39
+2018-06-25 06:50:40,708 INFO spawned: 'php5-fpm' with pid 40
+2018-06-25 06:50:40,710 INFO exited: php5-fpm-log (exit status 1; not expected)
+2018-06-25 06:50:40,711 INFO gave up: php5-fpm-log entered FATAL state, too many start retries too quickly
+2018-06-25 06:50:40,753 INFO exited: php5-fpm (exit status 70; not expected)
+2018-06-25 06:50:40,753 INFO reaped unknown pid 41
+2018-06-25 06:50:40,971 INFO gave up: php5-fpm entered FATAL state, too many start retries too quickly
+2018-06-25 06:50:41,754 INFO gave up: php5-fpm entered FATAL state, too many start retries too quickly
